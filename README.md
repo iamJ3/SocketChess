@@ -1,6 +1,8 @@
 # Real-Time Chess Game
 
 A real-time chess game clone inspired by Chess.com. Players can compete against each other with live move updates and synchronized game states.
+![image](https://github.com/user-attachments/assets/8cbb84ae-7fff-4ff4-a01f-dbb9df42eca8)
+
 
 ## Features
 - **Real-Time Gameplay:** Moves are updated live for all players.
@@ -16,8 +18,8 @@ A real-time chess game clone inspired by Chess.com. Players can compete against 
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/iamJ3/SocketChess
+    cd SocketChess
     ```
 
 2. Install dependencies:
